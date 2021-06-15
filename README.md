@@ -1,6 +1,6 @@
 **Background:**
 
-The case was inspired by [Wikimedia Foundation Data Analyst Technical Assignment](https://github.com/wikimedia-research/Discovery-Hiring-Analyst-2016). The original dataset was transformed and adapted for the purposes of the workshop_. _
+The case was inspired by [Wikimedia Foundation Data Analyst Technical Assignment](https://github.com/wikimedia-research/Discovery-Hiring-Analyst-2016). The original dataset was transformed and adapted for the purposes of the workshop. 
 
 Discovery (and other teams within the Foundation) rely on event logging (EL) to track a variety of performance and usage metrics to help us make decisions. Specifically, Discovery is interested in:
 
